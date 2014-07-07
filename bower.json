@@ -1,0 +1,20 @@
+{
+  "name": "muppet",
+  "version": "0.0.0",
+  "description": "A Marionette collection of recipes",
+  "main": "dist/muppet.js",
+  "author": {
+    "name": "Stéphane Bachelier",
+    "email": "stephane.bachelier@gmail.com"
+  },
+  "repository": "stephanebachelier/muppet",
+  "license": "MIT",
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
